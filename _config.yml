@@ -1,0 +1,7 @@
+remote_theme: pages-themes/modernist@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+title: Mikaela Cashman McDevitt
+description: Research Software Engineer | KBase | Lawrence Berkeley National Laboratory
